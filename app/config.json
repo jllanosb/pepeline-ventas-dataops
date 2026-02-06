@@ -19,7 +19,7 @@
   },
   "report": {
     "to": "usuario.dmc@gmail.com",
-    "subject": "Jaime Llanos - Comisiones Calculadas Dataops",
+    "subject": "Jaime Llanos - Comisiones Calculadas ejemplo Dataops",
     "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
 }
